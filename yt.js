@@ -3,7 +3,7 @@
 // @namespace    https://zqwqz.org
 // @version      0.1
 // @description  lel
-// @author       You
+// @author       Vader
 // @include      https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant unsafeWindow
